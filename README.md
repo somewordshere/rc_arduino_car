@@ -11,5 +11,5 @@
 
 # Tools:
 - Aruino IDE
-- [Bluetooth RC Car](play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller)- the app sends an ASCII character to the Arduino. Arudino Uno then processes the character and controls the rc car's motors.
+- [Bluetooth RC Car](play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) - the app sends an ASCII character to the Arduino. Arudino Uno then processes the character and controls the rc car's motors.
 
